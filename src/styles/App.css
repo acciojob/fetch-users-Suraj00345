@@ -1,1 +1,24 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
 
+.btn {
+    border: none;
+    background-color: #197384;
+    color: white;
+    border-radius: 7px;
+    height: 40px;
+    margin-top: 10px;
+}
+
+.table {
+    width: 1400px;
+    margin: 20px;
+}
+
+.thead {
+    background-color: rgb(35, 33, 33);
+    color: white;
+    height: 50px;
+}
