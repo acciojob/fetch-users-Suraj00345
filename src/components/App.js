@@ -54,7 +54,7 @@ const App = () => {
           {userList.length === 0 && (
             <tr>
               <td>
-                <b>NO data found to display</b>
+                <b>No data found to display</b>
               </td>
             </tr>
           )}
